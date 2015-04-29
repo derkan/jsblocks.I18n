@@ -1,6 +1,8 @@
 # jsblocks.I18n
 
-Simple localization support for I18n. Do not expect much, use as is or improve and send me a pull request :-)
+Simple localization support for jsblocks "Better MV-ish Framework". 
+
+Do not expect much from this extension, use as is or improve and send me a pull request :-)
 
 ## Properties:
 
