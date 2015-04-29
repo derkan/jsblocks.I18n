@@ -1,6 +1,6 @@
 # jsblocks.I18n
 
-Simple localization support for I18n. Do not expect much :-)
+Simple localization support for I18n. Do not expect much, use as is or improve and send me a pull request :-)
 
 ## Properties:
 
