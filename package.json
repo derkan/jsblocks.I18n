@@ -1,0 +1,17 @@
+
+{
+  "name": "jsblocks.I18n",
+  "version": "0.0.1",
+  "description": "Simple I18n support for jsblocks Framework",
+  "author": {
+    "name": "Erkan Durmuş",
+    "email": "derkan@gmail.com",
+    "url": "http://jsblocks.com"
+  },
+  "license": "MIT",
+  "scripts": {
+  },
+  "devDependencies": {
+    "blocks": "^0.1.4"
+  }
+}
