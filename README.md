@@ -12,6 +12,12 @@ Simple localization support for I18n. Do not expect much :-)
 
 ## Example Usage:
 
+### Include this file
+
+```html
+<script type="text/javascript" src="vendor/jsblocks.I18n/jsblocks.I18n.js"></script>
+```
+
 ### Example locale file: `locales/tr.json`:
 ```json
   {
