@@ -1,0 +1,27 @@
+{
+  "name": "jsblocks.I18n",
+  "main": "jsblocks.I18n.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/derkan/jsblocks.I18n",
+  "authors": [
+    "Erkan Durus <derkan@gmail.com>"
+  ],
+  "description": "Simple localization support for jsblocks framework.",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "jsblocks",
+    "I18n",
+    "localization",
+    "internalization"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
